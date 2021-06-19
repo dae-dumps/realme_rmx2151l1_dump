@@ -1,0 +1,2 @@
+com.mediatek.entitlement.o2
+com.amazon.appmanager
